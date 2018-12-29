@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ExitListener
+comment1.params=event
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=2

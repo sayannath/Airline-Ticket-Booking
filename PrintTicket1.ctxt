@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PrintTicket1
+comment1.params=sFrom\ sTo\ sClass\ iAdult\ iChildren\ iInfant\ sBookingDate\ iPrice\ sTime
+comment1.target=PrintTicket1(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.String,\ java.lang.Integer,\ java.lang.String)
+numComments=2
